@@ -1,0 +1,122 @@
+
+
+h1 {
+  font-family: Arial;
+  font-size: 40px;
+}
+h2 {
+  font-family: Martial;
+  font-size: 24px;
+}
+.box1{
+
+  height: 200px;
+  width: 100%;
+}
+.box1-about{
+
+  height: 600px;
+  width: 100%;
+}
+.head1-about{
+  float:left;
+  width: 50%;
+
+}
+
+.head2-about{
+  float:left;
+  width: 50%;
+}
+
+.container{
+
+  height: 500px;
+}
+.container2{
+
+  height: 600px;
+}
+.head1{
+  float:left;
+  width: 50%;
+
+}
+
+.head2{
+  width: 50%;
+  float:left;
+}
+.head1-header{
+  float:left;
+  width: 30%;
+
+}
+
+.head2-header{
+  width: 40%;
+  float:left;
+}
+.head3{
+  width: 30%;
+  float:left;
+}
+.head3-header{
+  width: 10%;
+  float:left;
+}
+.head3-lessons{
+  width: 50%;
+  float: left;
+}
+.container-instructor{
+
+  height: 700px;
+  width: 100%;
+}
+.head1-instructor{
+  float:left;
+  width: 50%;
+
+}
+
+.head2-instructor{
+  width: 50%;
+  float:left;
+}
+
+.head3-instructor{
+  display: block;
+  width: 30%;
+  float:left;
+}
+
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  height: 300px; /* only for demonstration, should be removed */
+  background-image: url(footerImage.jpg);
+}
+
+.container-footer{
+  max-width: 1140px;
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  box-sizing: border-box;
+  text-align: center;
+
+}
+.element-row{
+width: 100%;
+display: flex;
+box-sizing: border-box;
+text-align: center;
+
+}
+.section Contact-us copy {
+width: 200%;
+
+}
